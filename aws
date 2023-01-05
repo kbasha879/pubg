@@ -1,0 +1,2 @@
+Note: In most cases, the guessed user name is correct. However, read your AMI usage instructions to check if the AMI owner has changed the default AMI user name.
+Connect using a custom user name, or use the default user name ec2-user for the AMI used to launch the instance.
